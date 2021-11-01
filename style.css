@@ -1,3 +1,14 @@
 img {
-  width: 500px;
+  width: 400px;
+  height: auto;
 }
+
+ .can-div {
+  /* display: flex; */
+  background-color: antiquewhite;
+  padding: 1.5em;
+}
+
+.can-div canvas {
+  justify-items: center;
+} 
